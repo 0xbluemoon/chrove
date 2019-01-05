@@ -28,6 +28,6 @@ People anonymously pay cryptocurrency,  vendor anonymously run the service. Serv
 
 The invention brings one more benefit never possible before: customer can order a 2 hours internet proxy service by only 0.01 USD.
 
-Chrove proxy is powered by a software protocol: [Chrove](). The protocol enables people to anonymously pay and enjoy digital service without a complicated registration process.
+Chrove proxy is powered by a software protocol: [Chrove](https://github.com/0xbluemoon/Chrove_protocol). The protocol enables people to anonymously pay and enjoy digital service without a complicated registration process.
 
 The Chrove protocol is based on EOS now, it will support more cryptocurrency.
