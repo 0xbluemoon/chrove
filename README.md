@@ -1,4 +1,4 @@
-[русский]()
+[русский](https://github.com/0xbluemoon/chrove/blob/master/russian_readme.md)
 
 [国语](https://github.com/0xbluemoon/chrove/blob/master/chinese_readme.md)
 
