@@ -11,7 +11,7 @@
 
 chrove代理是您可以匿名订购的第一个自助服务代理。代理服务在一分钟内就绪。您只需安装一个简单的谷歌浏览器扩展程序，并能够支付加密货币。
 
-[教程：安装Chrome浏览器扩展程序]()
+[教程：安装Chrome浏览器扩展程序](https://github.com/0xbluemoon/chrove/blob/master/Step%20by%20step-%20Install%20extension%20%E2%80%93%20Chrove.pdf)
 
 ### 为什么匿名很重要？
 
