@@ -15,7 +15,7 @@ It is a good solution to protect your browsing history when you enjoy free wifi 
 
 The Chrove proxy is the first self-service proxy that you can order anonymously. The proxy is ready in one minute after you pay. You just need to install a small Google Chrome extension and pay cryptocurrency.
 
-[Tutorial: install the Chrome browser extension]()
+[Tutorial: install the Chrome browser extension](https://github.com/0xbluemoon/chrove/blob/master/Step%20by%20step-%20Install%20extension%20%E2%80%93%20Chrove.pdf)
 
 ### Why anonymous ordering matter?
 Most of the online paid service ask you to provide credit card number. But many of them failed to keep the number secure. People in Iran, Russian and China need an internet proxy to bypass censorship. But a proxy purchase record on the bank account or an email from a proxy vendor can hurt people because this information links an online account to real people.
