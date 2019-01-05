@@ -1,6 +1,6 @@
 [русский]()
 
-[国语]()
+[国语](https://github.com/0xbluemoon/chrove/blob/master/chinese_readme.md)
 
 ### Did you ever imagine that you can anonymously order an internet proxy starts at  2 hours?
 
