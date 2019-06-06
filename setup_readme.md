@@ -1,4 +1,4 @@
-您可以從Google Chrome網上應用店鏈接安裝Google Chrome擴展程序：httpss://chrome.google.com/webstore/search/chrove
+您可以從Google Chrome網上應用店鏈接安裝Google Chrome擴展程序：https://chrome.google.com/webstore/search/chrove
 
 有些用戶無法訪問谷歌Chrome網店，可以從https://github.com/0xbluemoon/chrove_chrome_extension 下載離線包
 
