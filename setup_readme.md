@@ -2,7 +2,7 @@
 
 有些用戶無法訪問谷歌Chrome網店，可以從https://github.com/0xbluemoon/chrove_chrome_extension 下載離線包
 
-提取到chrove_ext等本地新文件夾。然後打開谷歌瀏覽器並輸入chrome：// extensions / in url並按回車鍵。您需要打開右上角的按鈕打開開發人員模式。
+提取到chrove_ext等本地新文件夾。然後打開谷歌瀏覽器並輸入chrome://extensions/ in url並按回車鍵。您需要打開右上角的按鈕打開開發人員模式。
 
 ![](https://github.com/0xbluemoon/chrove/blob/master/p1.png)
 
@@ -21,9 +21,7 @@
 
 我們將在下一章向您展示如何訂購
 
-![](https://github.com/0xbluemoon/chrove/blob/master/p5.png)
-![](https://github.com/0xbluemoon/chrove/blob/master/p6.png)
-![](https://github.com/0xbluemoon/chrove/blob/master/p7.png)
-![](https://github.com/0xbluemoon/chrove/blob/master/p8.png)
-![](https://github.com/0xbluemoon/chrove/blob/master/p9.png)
-![](https://github.com/0xbluemoon/chrove/blob/master/p10.png)
+![](https://github.com/0xbluemoon/chrove/blob/master/pp1.png)
+![](https://github.com/0xbluemoon/chrove/blob/master/pp2.png)
+![](https://github.com/0xbluemoon/chrove/blob/master/pp3.png)
+![](https://github.com/0xbluemoon/chrove/blob/master/pp5.png)
